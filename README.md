@@ -1,38 +1,19 @@
 # Welcome! 👋
 
-You are going to stretch your Javascript knowledge and make you more confident with one of the most popular programming languages in the world 🌏!
+The lessons in this repo are me stretching my Javascript knowledge and make you more confident with one of the most popular programming languages in the world 🌏!
 
-Many of the concepts you will cover you may be familiar with but familiarity !== understanding.
+Motto for these lessons: Familiarity !== understanding.
 
-That leads us to our philosophy on learning:
 
 ### You Learn Best By Doing!
 
-We have laid out the most common concepts that confuse JS developers. Here's how we suggest you tackle this material.
+How I tried to tackle the material.
 
-1. Watch the videos under each sections `README.md`
-2. Read any related articles that are linked
-3. <strong>Everyone learns differently</strong> - feel free to look up these concepts using the medium you prefer to round out your knowledge
-4. Each module has broken unit tests... you need to fix them with the correct code
-5. Often times, the solution will be in the video in the `README.md` - DO NOT simply copy the answer from there! You will learn nothing
-6. For the love of Bob, please do the `Your Turn` sections in each `README.md` - these will help you really retain the information!
-
-We know that getting your dream job as a software engineer or excelling in your current role requires a strong technical foundation but that's not all!
-
-Your LinkedIn, resume and general job strategy must be aligned with your goals and your mindset must be in the correct state to perform to the best of your ability.
-
-Use the material in the rest of this course to fix those aspects and don't hesitate to reach out for help via email or to set up a short 1 to 1.
-
----
-
-### Setup
-
----
-
-1. Fork this repo
-2. In your terminal run `npm install`
-3. To run tests - first unskip the tests in the file you are working on by removing all `skip`s. Then run `npm test`. To test a specific file: `npm test path/to/file.test.js`
-4. Once you complete a module, send a quick video walking through your work and a screenshot of the passing tests (or include it in the video) via Slack or email at brianjenney@jswizards.io
+1. Watched the videos under each sections `README.md`
+2. Read the related articles that are linked and whatever else I need to understand the JS concept
+3. Document what I am doing in a new `README.md`
+4. Fix the broken unit test and then run the test
+5. Make a Loom video of the material
 
 ---
 
@@ -58,15 +39,13 @@ git checkout solutions
 
 ---
 
-# Let's get started! 🚀
+# Hooray for learning! 🚀
 
 ---
 
-Here's the order I suggest you approach this material but feel free to jump around and please `git pull` every so often to get the most up to date material.
-
 ### Table Stakes
 
-- [ ] Prototypes
+- [X] Prototypes
 - [ ] Bind, Call, Apply
 - [ ] Closure
 
